@@ -1,0 +1,1 @@
+{"name":"Local: infiniteReplacement","url":"c:\\Users\\HP\\Desktop\\cp\\infiniteReplacement.cpp","tests":[{"id":1675198182467,"input":"3\naaaa\na\naa\nabc\na\nb\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\cp\\infiniteReplacement.cpp","group":"local","local":true}

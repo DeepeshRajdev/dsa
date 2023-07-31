@@ -1,0 +1,1 @@
+{"name":"Local: knapsack","url":"c:\\Users\\HP\\Desktop\\dp\\atCODER\\knapsack.cpp","tests":[{"id":1677745125075,"input":"3 8\n3 30\n4 50\n5 60","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\dp\\atCODER\\knapsack.cpp","group":"local","local":true}

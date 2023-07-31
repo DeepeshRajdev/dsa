@@ -1,0 +1,1 @@
+{"name":"Local: new_year","url":"c:\\Users\\HP\\Desktop\\cp\\new_year.cpp","tests":[{"id":1673697414769,"input":"5\n1\n4041\n4042\n8081\n8079","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\cp\\new_year.cpp","group":"local","local":true}
